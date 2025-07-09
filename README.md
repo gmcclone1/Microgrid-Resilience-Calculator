@@ -9,7 +9,7 @@ This Excel-based tool helps quantify **microgrid resilience** by simulating rand
 
 ## ✅ Getting Started
 
-1. **Use the REopt Lite Tool**  
+1. **Use the REopt Tool**  
    Go to REopt (https://reopt.nrel.gov/tool) and:
    - Select DER technologies to consider (e.g., PV, battery storage, wind, prime generator).
    - Enter the location of your site and load information (e.g., upload your hourly load profile or use REopt defaults).
